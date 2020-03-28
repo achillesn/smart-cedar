@@ -5,7 +5,7 @@ home_style: style2
 home_img: "/images/01.2.jpg"
 excerpt: Το ξύπνημα των Σκιών
 date: 2020-03-26 23:00:00 +0000
-img_src: "/images/01.shadows.jpg"
+img_src: ''
 
 ---
 <iframe src="https://player.vimeo.com/video/399672850" width="1200" height="800" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
