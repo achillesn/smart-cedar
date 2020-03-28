@@ -2,7 +2,7 @@
 layout: page
 title: The awakening of the shadows
 home_style: style1
-home_img: "/images/01.shadows.jpg"
+home_img: "/images/01.2.jpg"
 excerpt: Το ξύπνημα των Σκιών
 date: 2020-03-26 23:00:00 +0000
 img_src: "/images/01.shadows.jpg"
