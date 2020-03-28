@@ -11,17 +11,17 @@ img_src: ''
 <iframe src="https://player.vimeo.com/video/399672850" width="1200" height="800" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Nobody knows  
-What lies behind dreams  
+what lies behind dreams.  
 Nobody knows
 
 Nobody knows  
-What happens when the shadows awake  
-And slowly they fold the light  
-That gave them birth  
-Like waves  
-Playful through thunder  
+what happens when the shadows awake  
+and slowly they fold the light  
+that gave them birth  
+like waves  
+playful through thunder  
 Like rays  
-Piercing the core of the cosmos
+piercing the core of the cosmos
 
 From light comes shadow  
 The same light that nurtures them  
