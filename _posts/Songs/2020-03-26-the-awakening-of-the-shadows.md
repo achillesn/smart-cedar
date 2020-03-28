@@ -10,38 +10,41 @@ img_src: "/images/01.shadows.jpg"
 ---
 <iframe src="https://player.vimeo.com/video/399672850" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+Nobody knows  
+ What lies behind dreams  
+ Nobody knows
 
-Nobody knows                           
-What lies behind dreams                  
-Nobody knows                             
-Nobody knows                             
-What happens when the shadows awake      
-And slowly they fold the light
-That gave them birth
-Like waves
-Playful through thunder
-Like rays
-Piercing the core of the cosmos
-From light comes shadow
-The same light that nurtures them
-Trying to suck the light
-To acquire life
-Shadows happy
-As they are mournful
-When they devour light
-In darkness
-Something in their nature
-They die
-Light, their only hope
-Light their freedom
-The very same light
-Their prison
-Shadows that suffer
-As they live
-And they devour the light
-Evaporate
-They stick to dreams
-Like morning dew
-Nesting in silence
-Waiting in patience
-To open your eyes
+Nobody knows  
+ What happens when the shadows awake  
+ And slowly they fold the light  
+ That gave them birth  
+ Like waves  
+ Playful through thunder  
+ Like rays  
+ Piercing the core of the cosmos
+
+From light comes shadow  
+ The same light that nurtures them  
+ Trying to suck the light  
+ To acquire life  
+ Shadows happy  
+ As they are mournful  
+ When they devour light  
+ In darkness  
+ Something in their nature  
+ They die
+
+Light, their only hope  
+ Light their freedom  
+ The very same light  
+ Their prison
+
+Shadows that suffer  
+ As they live  
+ And they devour the light  
+ Evaporate  
+ They stick to dreams  
+ Like morning dew  
+ Nesting in silence  
+ Waiting in patience  
+ To open your eyes
