@@ -2,6 +2,9 @@
 enabled: true
 title: Follow
 follow_section:
+- title: vimeo
+  icon: fa-vimeo
+  link_url: "#"
 - title: you tube
   icon: fa-youtube
   link_url: "#"
