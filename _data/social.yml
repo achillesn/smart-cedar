@@ -2,20 +2,17 @@
 enabled: true
 title: Follow
 follow_section:
-- title: vimeo
-  icon: fa-vimeo
-  link_url: "#"
-- title: you tube
-  icon: fa-youtube
-  link_url: "#"
 - title: Facebook
   icon: fa-facebook
   link_url: "#"
 - title: Instagram
   icon: fa-instagram
   link_url: "#"
-- title: Phone
-  icon: fa-phone
+- title: you tube
+  icon: fa-youtube
+  link_url: "#"
+- title: vimeo
+  icon: fa-vimeo
   link_url: "#"
 - title: Email
   icon: fa-envelope-o
