@@ -52,8 +52,6 @@ fields:
   config:
     required: true
 pages:
-- _posts/2017-04-01-pretium.md
 - _posts/2017-04-03-ultricies.md
-- _posts/2017-04-04-nullam.md
 - _posts/2017-04-07-veroeros.md
 - _posts/2017-04-09-tempus.md
