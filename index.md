@@ -1,6 +1,6 @@
 ---
 title: Home
-header: Imperfect Identification (2020)
+header: ''
 layout: home
 menu:
   main:
