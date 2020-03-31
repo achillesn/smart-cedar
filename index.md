@@ -1,6 +1,6 @@
 ---
 title: Home
-header: ''
+header: Imperfect ID
 layout: home
 menu:
   main:
