@@ -10,8 +10,6 @@ img_src: ''
 ---
 <iframe src="https://player.vimeo.com/video/402933077" width="1200" height="800" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-\-
-
 Nobody knows  
 what lies behind dreams.  
 Nobody knows
