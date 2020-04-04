@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Waiting for the dawn
+title: Waiting for the Dawn
 home_style: style1
 home_img: "/images/IMID-LOGO-black-small.jpg"
 excerpt: Περιμένοντας την Αυγή
