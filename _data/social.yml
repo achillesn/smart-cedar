@@ -2,6 +2,8 @@
 enabled: true
 title: Follow
 follow_section:
+- title: Subscribe
+  icon: f-subscribe
 - title: Facebook
   icon: fa-facebook
   link_url: https://www.facebook.com/ImperfectId-112014263769138/
