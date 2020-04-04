@@ -16,7 +16,7 @@ follow_section:
   link_url: https://www.youtube.com/channel/UCisDlB-5CCcaCK158efkrNg?view_as=subscriber
 - title: vimeo
   icon: fa-vimeo
-  link_url: "#"
+  link_url: https://vimeo.com/user111454686
 - title: Email
   icon: fa-envelope-o
   link_url: "#"
