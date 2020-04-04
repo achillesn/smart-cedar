@@ -10,7 +10,9 @@ img_src: ''
 ---
 <iframe src="https://player.vimeo.com/video/402933077" width="1200" height="800" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-FREE DOWNLOAD  
+**FREE DOWNLOAD**
+
+Subscribe to our list.  
 By donating a free amount you help us to produce our next songs and realise our first album. Thank you for your love!!!
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2500160527/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/track/the-awakening-of-the-shadows">The awakening of the Shadows (Το ξύπνημα των σκιών) by Imperfect ID</a></iframe>
