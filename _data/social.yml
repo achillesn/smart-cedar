@@ -2,9 +2,6 @@
 enabled: true
 title: Follow
 follow_section:
-- title: Bandcamp
-  icon: fa-bandcamp
-  link_url: https://imperfectid.bandcamp.com/releases
 - title: Facebook
   icon: fa-facebook
   link_url: https://www.facebook.com/ImperfectId-112014263769138/
@@ -17,6 +14,6 @@ follow_section:
 - title: vimeo
   icon: fa-vimeo
   link_url: https://vimeo.com/user111454686
-- title: Email
-  icon: fa-envelope-o
-  link_url: "#"
+- title: Bandcamp
+  icon: fa-bandcamp
+  link_url: https://imperfectid.bandcamp.com/releases
