@@ -2,6 +2,8 @@
 enabled: true
 title: Follow
 follow_section:
+- title: Bandcamp
+  icon: fa-bandcamp
 - title: Facebook
   icon: fa-facebook
   link_url: "#"
