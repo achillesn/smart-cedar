@@ -15,7 +15,7 @@ Coming soon...
 Mine are the dreams  
 Mine are the images  
 That keep strolling like a blind dizziness.  
-The brain is a cell  
+The brain is a prison  
 Thoughts without sense tie me well  
 Like a lamb to be slaughtered  
 Waiting for the dawn to come
