@@ -36,9 +36,9 @@ Is what keeps life
 Alive.
 
 I never met the essence  
-That simplicity wears  
+that simplicity wears  
 I never improved  
-And as long as the stars shine  
+and as long as the stars shine  
 I’m sure I have time
 
 It’s late  
