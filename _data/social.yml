@@ -4,6 +4,7 @@ title: Follow
 follow_section:
 - title: Bandcamp
   icon: fa-bandcamp
+  link_url: https://imperfectid.bandcamp.com/releases
 - title: Facebook
   icon: fa-facebook
   link_url: "#"
