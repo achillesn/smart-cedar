@@ -8,4 +8,4 @@ menu:
 
 ---
 Imperfect ID is a music project which harmonizes poetry and music, offering an opportunity for contemplating in motion.   
-Aim for the heart.
+Straight for the heart.
