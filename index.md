@@ -7,4 +7,4 @@ menu:
     weight: 1
 
 ---
-Imperfect id is a music project which blends poetry and music, offering an opportunity for meditation in motion.We are aiming for the heart
+Imperfect ID is a music project which blends poetry and music, offering an opportunity for meditation in motion.We are aiming for the heart
