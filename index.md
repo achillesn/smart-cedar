@@ -7,5 +7,4 @@ menu:
     weight: 1
 
 ---
-Imperfect ID is a music project which harmonizes poetry and music, offering an opportunity for contemplating in motion.   
-Straight to the heart.
+Imperfect ID is a music project which harmonizes poetry and music, offering an opportunity for contemplating in motion. Straight to the heart.
