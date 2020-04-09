@@ -1,6 +1,11 @@
 <section>
     <h2>{{ site.data.social.title }}</h2>
-    <!-- Begin Mailchimp Signup Form -->
+    <ul class="icons">
+        {% for link in site.data.social.follow_section %}
+            <li><a href="{{ link.link_url }}" class="icon style2 {{ link.icon }}"><span class="label">{{ link.title }}</span></a></li>
+        {% endfor %}
+    </ul>
+	<!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <form action="https://gmail.us19.list-manage.com/subscribe/post?u=6fea6fb4036602df5f7a7e931&amp;id=6fceaf42a0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div>
@@ -11,9 +16,4 @@
     </div>
 </form>
 <!--End mc_embed_signup-->
-    <ul class="icons">
-        {% for link in site.data.social.follow_section %}
-            <li><a href="{{ link.link_url }}" class="icon style2 {{ link.icon }}"><span class="label">{{ link.title }}</span></a></li>
-        {% endfor %}
-    </ul>
 </section>
