@@ -15,6 +15,8 @@ img_src: ''
 **Subscribe** to our list.  
 By donating a free amount you help us to produce our next songs and realise our first album. **Thank you for your love!!!**
 
+(Lyrics)
+
 Mine are the dreams  
 Mine are the images  
 That keep strolling like a blind dizziness.  
@@ -66,3 +68,5 @@ The brain is a prison
 Thoughts without sense tie me well  
 Like a lamb to be slaughtered  
 Waiting for the dawn to come
+
+English translation: Nevi Kaninia
