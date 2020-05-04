@@ -8,7 +8,7 @@ date: 2020-05-02 22:00:00 +0000
 img_src: ''
 
 ---
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/414499503" width="1150" height="780" frameborder="0" allowfullscreen></iframe>(Lyrics)
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/414499503" width="1150" height="780" frameborder="0" allowfullscreen></iframe>
 
 **FREE DOWNLOAD**
 
