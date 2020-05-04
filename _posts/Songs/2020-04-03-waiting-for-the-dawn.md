@@ -19,25 +19,25 @@ By donating a free amount you help us to produce our next songs and realise our 
 
 Mine are the dreams  
 Mine are the images  
-That keep strolling like a blind dizziness.  
+that keep strolling like a blind dizziness.  
 The brain is a prison  
 Thoughts without sense tie me well  
-Like a lamb to be slaughtered  
+like a lamb to be slaughtered  
 Waiting for the dawn to come
 
 All that I have  
 All that takes care of me  
-Is now my cell  
-And all I knew is now treading  
+is now my cell  
+and all I knew is now treading  
 In loneliness  
 Together we were born  
 Together we’ll get lost  
-When we enter infinity  
-In orbit
+when we enter infinity  
+in orbit
 
 A blind truth  
-A last breath  
-Is what keeps life  
+a last breath  
+is what keeps life  
 Alive.
 
 I never met the essence  
@@ -52,8 +52,7 @@ though it’s late
 It’s late
 
 How far am I from the end?  
-The end  
-is present every single moment  
+The end is present every single moment  
 and yet always late.  
 My soul is bleeding  
 Knowledge is slipping away  
