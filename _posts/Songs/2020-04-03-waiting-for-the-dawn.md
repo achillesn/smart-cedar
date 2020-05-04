@@ -4,7 +4,7 @@ title: Waiting for the Dawn
 home_style: style1
 home_img: "/images/IMID-LOGO-black-small.jpg"
 excerpt: Περιμένοντας την Αυγή
-date: 2020-03-19T23:00:00.000+00:00
+date: 2020-05-02 22:00:00 +0000
 img_src: ''
 
 ---
