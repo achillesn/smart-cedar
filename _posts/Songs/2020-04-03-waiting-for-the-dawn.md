@@ -10,6 +10,11 @@ img_src: ''
 ---
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/414499503" width="640" height="360" frameborder="0" allowfullscreen></iframe>(Lyrics)
 
+**FREE DOWNLOAD**
+
+**Subscribe** to our list.  
+By donating a free amount you help us to produce our next songs and realise our first album. **Thank you for your love!!!**
+
 Mine are the dreams  
 Mine are the images  
 That keep strolling like a blind dizziness.  
