@@ -69,4 +69,4 @@ Thoughts without sense tie me well
 Like a lamb to be slaughtered  
 Waiting for the dawn to come
 
-English translation: Nevi Kaninia
+_English translation:_ **Nevi Kaninia**
