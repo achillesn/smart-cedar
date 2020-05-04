@@ -4,7 +4,7 @@ title: The awakening of the shadows
 home_style: style2
 home_img: "/images/IMID-LOGO-black-small.jpg"
 excerpt: Το ξύπνημα των Σκιών
-date: 2020-03-26 23:00:00 +0000
+date: 2020-03-26T23:00:00.000+00:00
 img_src: ''
 
 ---
@@ -57,3 +57,5 @@ Like morning dew
 Nesting in silence  
 Waiting in patience  
 To open your eyes
+
+_English translation:_ **Nevi Kaninia**
