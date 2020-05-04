@@ -4,13 +4,11 @@ title: Waiting for the Dawn
 home_style: style1
 home_img: "/images/IMID-LOGO-black-small.jpg"
 excerpt: Περιμένοντας την Αυγή
-date: 2020-03-19 23:00:00 +0000
+date: 2020-03-19T23:00:00.000+00:00
 img_src: "/images/01.shadows.jpg"
 
 ---
-Coming soon...
-
-(Lyrics)
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/414499503" width="640" height="360" frameborder="0" allowfullscreen></iframe>(Lyrics)
 
 Mine are the dreams  
 Mine are the images  
