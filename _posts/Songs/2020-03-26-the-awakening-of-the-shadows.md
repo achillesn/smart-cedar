@@ -1,10 +1,10 @@
 ---
 layout: page
 title: The awakening of the shadows
-home_style: style2
+home_style: style7
 home_img: "/images/IMID-LOGO-black-small.jpg"
 excerpt: Το ξύπνημα των Σκιών
-date: 2020-04-30 22:00:00 +0000
+date: 2020-04-30T22:00:00.000+00:00
 img_src: ''
 
 ---
