@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Waiting for the Dawn
-home_style: style1
+home_style: style7
 home_img: "/images/IMID-LOGO-black-small.jpg"
 excerpt: Περιμένοντας την Αυγή
-date: 2020-05-02 22:00:00 +0000
+date: 2020-05-02T22:00:00.000+00:00
 img_src: ''
 
 ---
