@@ -2,7 +2,7 @@
 layout: page
 title: Waiting for the Dawn
 home_style: style7
-home_img: "/images/imid-yellow-smallweb.jpg"
+home_img: "/images/imid-orange-small.jpg"
 excerpt: Περιμένοντας την Αυγή
 date: 2020-05-02T22:00:00.000+00:00
 img_src: ''
