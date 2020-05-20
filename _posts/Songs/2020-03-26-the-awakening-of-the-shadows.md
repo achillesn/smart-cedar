@@ -2,7 +2,7 @@
 layout: page
 title: The awakening of the shadows
 home_style: style7
-home_img: "/images/imid-yellow-smallweb.jpg"
+home_img: "/images/imid-orange-small.jpg"
 excerpt: Το ξύπνημα των Σκιών
 date: 2020-04-30T22:00:00.000+00:00
 img_src: ''
