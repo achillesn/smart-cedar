@@ -62,7 +62,7 @@ Forget about the gist
 and forget about love  
 Wandering around  
 alone  
-together.
+with you.
 
 In its divine apathy  
 essence doesn’t care  
