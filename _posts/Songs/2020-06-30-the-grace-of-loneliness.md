@@ -8,7 +8,6 @@ date: 2020-06-30 22:00:00 +0000
 img_src: "/images/loneliness.jpg"
 
 ---
-
 You can **Download** this song for **FREE**
 
 By donating a free amount you help us to produce our next songs and realise our first album. **Thank you for your love!!!**
@@ -17,7 +16,7 @@ By donating a free amount you help us to produce our next songs and realise our 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=small/bgcol=ffffff/linkcol=0687f5/track=3539281572/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
 
-**The Grace of Loneliness** (Lyrics)
+__The Grace of Loneliness*__ (Lyrics)
 
 In the abyss of the Word  
 Joy is hidden  
@@ -74,4 +73,4 @@ till you learn to love
 till you learn to love  
 till you learn to love.
 
-Translated into English by Nevi Kaninia.
+\* _Translated into English by Nevi Kaninia._
