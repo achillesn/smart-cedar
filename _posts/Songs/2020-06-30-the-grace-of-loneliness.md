@@ -22,33 +22,33 @@ By donating a free amount you help us to produce our next songs and realise our 
 In the abyss of the Word  
 Joy is hidden  
 In a labyrinth stuck  
-Agonizing to wander  
+agonizing to wander  
 back and forth
 
 Bygone and forgotten  
-But still deep inside  
-Waiting for your return  
-To the core of style
+but still deep inside  
+waiting for your return  
+to the core of style
 
 So many stars in the world  
-But only one sky  
+but only one sky  
 So many smiles in our lives  
 gone  
 Like smoke.
 
 Did you ever suspect, my friend  
-How everything would become an image  
-Even the very human heart
+how everything would become an image  
+even the very human heart
 
 Even Jove  
-The god of gods  
-Feared man  
-And tried to stop him  
-By splitting him in two  
-Donating the eternal torture  
-Of lack  
-The agony of lonesome  
-Before it transforms to Loneliness
+the god of gods  
+feared man  
+and tried to stop him  
+by splitting him in two  
+donating the eternal torture  
+of lack  
+the agony of lonesome  
+before it transforms to Loneliness
 
 Dancing by yourself  
 Getting drunk on your own  
@@ -56,20 +56,20 @@ You Die Alone
 And Alone you celebrate
 
 Feeling full Lonely  
-And then suffering alone  
-With others Alone  
+and then suffering alone  
+with others Alone  
 You only forget.
 
 Forget about the gist  
-And forget about love  
+and forget about love  
 Wandering around  
 alone  
 together.
 
 In its divine apathy  
-Essence doesn’t care  
-Just points the way to take  
-Till you learn to love  
-Till you learn to love  
-Till you learn to love  
-Till you learn to love
+essence doesn’t care  
+just points the way to take  
+till you learn to love  
+till you learn to love  
+till you learn to love  
+till you learn to love
