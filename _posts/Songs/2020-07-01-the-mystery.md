@@ -19,29 +19,29 @@ By donating a free amount you help us to produce our next songs and realise our 
 __The Mystery*__ _(lyrics)_
 
 We live in years of darkness  
-Full of violence  
-And praise for the past  
-Uncertainty for tomorrow  
-While nature  
+full of violence  
+and praise for the past  
+uncertainty for tomorrow  
+while nature  
 screams in despair.
 
 Now is losing power  
-And disappears  
-Sleeping in the arms of sadness  
+and disappears  
+sleeping in the arms of sadness  
 Knowing  
-Not to pay attention  
-To moments past  
+not to pay attention  
+to moments past  
 Torturing the collective unconscious  
-With ideas  
-With no reason for existence  
+with ideas  
+with no reason for existence.  
 But they reason.
 
 When I was a child  
 I remember  
-Thoughts did not torture me at all  
+thoughts did not torture me at all  
 There was nature  
 There was light  
-And I was a little god.
+and I was a little god.
 
 Look there far off  
 Everything is gone  
@@ -52,17 +52,17 @@ And time became long.
 
 Now fear is aiming like a stretched bow  
 A reminiscent of your inferiority  
-Towards the approaching  
-Unknown.
+towards the approaching  
+unknown.
 
 But still what makes us sad  
-Springs from joy  
-That did not enough breathe  
+springs from joy  
+that did not enough breathe  
 so that she can last the dive in the deep
 
 Spreading in the wind  
-A message only seen by you  
-As if it was made of smoke
+a message made of smoke  
+was seen only  by you
 
 Like a stone in your shoe  
 That aches as you go through  
