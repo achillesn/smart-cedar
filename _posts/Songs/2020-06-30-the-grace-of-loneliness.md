@@ -5,7 +5,7 @@ home_style: style7
 home_img: "/images/id-owebsite.jpg"
 excerpt: Η χάρη της μοναξιάς
 date: 2020-06-30 22:00:00 +0000
-img_src: "/images/id26_mg_6395.jpg"
+img_src: "/images/loneliness.jpg"
 
 ---
 
