@@ -5,7 +5,7 @@ home_style: style7
 home_img: "/images/id-owebsite.jpg"
 excerpt: Το Τραγούδι της Πλάσης
 date: 2020-07-01 22:00:00 +0000
-img_src: ''
+img_src: "/images/hug.jpg"
 
 ---
 You can **Download** this song for **FREE**
