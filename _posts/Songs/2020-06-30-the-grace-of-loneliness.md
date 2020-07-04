@@ -51,7 +51,7 @@ before it transforms to Loneliness
 Dancing by yourself  
 Getting drunk on your own  
 You Die Alone  
-And Alone you celebrate
+and Alone you celebrate
 
 Feeling full Lonely  
 and then suffering alone  
