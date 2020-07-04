@@ -43,7 +43,7 @@ the god of gods
 feared man  
 and tried to stop him  
 by splitting him in two  
-donating the eternal torture  
+Donating the eternal torture  
 of lack  
 the agony of lonesome  
 before it transforms to Loneliness
