@@ -70,6 +70,6 @@ just points the way to take
 till you learn to love  
 till you learn to love  
 till you learn to love  
-till you learn to love.
+till you learn to love...
 
 \* _Translated into English by Nevi Kaninia._
