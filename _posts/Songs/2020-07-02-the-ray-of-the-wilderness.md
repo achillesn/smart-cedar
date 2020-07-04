@@ -8,7 +8,7 @@ date: 2020-07-02 22:00:00 +0000
 img_src: "/images/ray-of-wilderness.jpg"
 
 ---
-You can **Download** this song for **FREE**
+You can **Download** this song, or the entire album, for <a href="https://imperfectid.bandcamp.com/album/imperfect-id/" target="blank"> **FREE**</a>
 
 By donating a free amount you help us to produce our next songs and realise our next album. **Thank you for your love!!!**
 
