@@ -33,7 +33,9 @@ a creation
 The last rebellion of simplicity is  
 to decide action.
 
-Action is escape.  
+Action is escape.
+
+  
 The route is flooding with the waters of the river  
 and we just wait for them to evaporate  
 to cross to the other side.  
