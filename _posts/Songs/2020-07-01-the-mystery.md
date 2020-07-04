@@ -69,15 +69,14 @@ that aches as you go through
 deeper and deeper  
 in collective memory  
 until with you  
-all is forgotten
-
+all is forgotten  
 And only mystery  
-Is left.
+is left.
 
 Remember when you were a kid  
 Thoughts did not torture you a bit  
 Still there was nature  
-Around  
+around  
 And you were a little god.
 
 \*_Translated into English by Nevi Kaninia._
