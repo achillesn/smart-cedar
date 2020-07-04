@@ -72,3 +72,5 @@ It’s time to be silent again
  as if we are gods  
  that share willingly  
  the stars and the sky.
+
+_Translated into English by Nevi Kaninia._
