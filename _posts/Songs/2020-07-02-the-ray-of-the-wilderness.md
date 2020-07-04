@@ -30,74 +30,43 @@ Now, here on my own
 in the heat of cold  
 in the light of darkness  
 I whisper to infinity  
-the need of Logos
+the need of Logos  
+The world is upside down  
+and it is suppressing us  
+paying no attention  
+to infinity  
+that unites us.  
+Like the snow freezing our fingertips.  
+Like truth becoming cold and  
+suppressing us.
 
-The world is upside down
-
-And it is suppressing us
-
-Paying no attention
-
-To infinity
-
-That unites us.
-
-Like the snow freezing our fingertips
-
-Like truth becoming cold and
-
-Suppressing us.
-
-Without caring for loves and roses
-
-For plans and new dreams
-
-Without songs
-
-With a secret anxiety
-
-Beginning turns around
-
-Love becomes a spell
-
-Losing all fights
-
-And spreading what is right
-
+Without caring for loves and roses  
+for plans and new dreams  
+Without songs  
+With a secret anxiety  
+beginning turns around  
+Love becomes a spell  
+losing all fights  
+and spreading all what is right  
 in a lonely place.
 
-Our world is upside down, once more
-
-And it unites us
-
-Life is an embrace
-
-That makes us strong.
-
-Like vapor warming your fingertips
-
-It makes us strong
-
+Our world is upside down, once more  
+and it unites us  
+Life is an embrace  
+that makes us strong.  
+Like vapor warming your fingertips  
+It makes us strong  
 Like a secret wish.
 
-Without caring about pain and loss
-
-Without pages long
-
-And cultural stereotypes.
-
-With new songs
-
-When the wish is unveiled
-
-Starting from the start
-
-And love becomes a cult
-
-Gaining every single battle
-
-While knowing to return to
-
+Without caring about pain and loss  
+Without pages long  
+and cultural stereotypes.  
+With new songs  
+when the wish is unveiled  
+Starting from the start  
+and love becomes a cult  
+gaining every single battle  
+while knowing to return to  
 a hug.
 
 \* _Translation into English by Nevi Kaninia_
