@@ -43,21 +43,21 @@ Waiting for security to aid
 You pay for it  
 So don’t be afraid  
 As long as you pay  
-You’ll be safe  
+you’ll be safe  
 Don’t look around  
 Don’t look around.
 
 Hide well your despair  
-That doesn’t let you breathe air  
-Every time you are ashamed  
-For being alive  
+that doesn’t let you breathe air  
+every time you are ashamed  
+for being alive  
 You were born human  
 You were born human  
 You were born human  
 What do you expect?  
 You should give the embrace  
-You were longing for  
-Away  
+you were longing for  
+away  
 You have nothing but that  
 Anyway.
 
