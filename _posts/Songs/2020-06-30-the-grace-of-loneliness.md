@@ -72,4 +72,6 @@ just points the way to take
 till you learn to love  
 till you learn to love  
 till you learn to love  
-till you learn to love
+till you learn to love.
+
+Translated into English by Nevi Kaninia.
