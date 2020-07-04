@@ -72,15 +72,15 @@ when you are alive,
 doesn’t belong to you
 
 So make a move and  
-Open the chest of treasure  
-You have in your heart  
+open the chest of treasure  
+you have in your heart  
 Take the magic flute  
-And start  
-To dance to the light  
+and start  
+to dance to the light  
 Deep  
 Deep with joy  
-And we’ll follow you  
-And we’ll follow you.
+and we’ll follow you.  
+We’ll follow you.
 
 Look me in the eye  
 Look deep  
