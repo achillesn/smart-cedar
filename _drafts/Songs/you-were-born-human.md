@@ -62,10 +62,9 @@ You have nothing but that
 Anyway.
 
 Even your breath  
-If you don’t make it live
-
-When you are alive  
-Doesn’t belong to you
+If you don’t make it live  
+when you are alive  
+doesn’t belong to you
 
 Even your breath  
 If you don’t make it live  
