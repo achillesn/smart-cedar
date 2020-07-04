@@ -8,7 +8,7 @@ date: 2020-07-03 22:00:00 +0000
 img_src: "/images/simon-chloros.jpg"
 
 ---
-You can **Download** this song for **FREE**
+You can **Download** this song, or the whole album, for <a href="https://imperfectid.bandcamp.com/album/imperfect-id/" target="blank"> **FREE**</a>
 
 By donating a free amount you help us to produce our next songs and realise our next album. **Thank you for your love!!!**
 
