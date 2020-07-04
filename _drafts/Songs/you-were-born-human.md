@@ -68,8 +68,8 @@ doesn’t belong to you
 
 Even your breath  
 If you don’t make it live  
-When you are alive  
-Doesn’t belong to you
+when you are alive,  
+doesn’t belong to you
 
 So make a move and  
 Open the chest of treasure  
