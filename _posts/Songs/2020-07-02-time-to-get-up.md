@@ -5,7 +5,7 @@ home_style: style7
 home_img: "/images/id-owebsite.jpg"
 excerpt: Καιρός να σηκωθείς
 date: 2020-07-02 22:00:00 +0000
-img_src: ''
+img_src: "/images/time-to-get-up.jpg"
 
 ---
 You can **Download** this song for **FREE**
