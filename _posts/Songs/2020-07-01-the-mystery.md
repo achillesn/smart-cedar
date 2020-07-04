@@ -62,14 +62,14 @@ so that she can last the dive in the deep
 
 Spreading in the wind  
 a message made of smoke  
-was seen only  by you
+was seen only  by you.
 
-Like a stone in your shoe  
-That aches as you go through  
-Deeper and deeper  
-In collective memory  
-Until with you  
-All is forgotten
+Feels like a stone in your shoe  
+that aches as you go through  
+deeper and deeper  
+in collective memory  
+until with you  
+all is forgotten
 
 And only mystery  
 Is left.
