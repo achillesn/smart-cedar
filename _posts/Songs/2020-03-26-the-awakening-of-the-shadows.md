@@ -10,8 +10,10 @@ img_src: ''
 ---
 <iframe src="https://player.vimeo.com/video/402933077" width="1150" height="780" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-**Subscribe** to our list.  
+  
 By donating a free amount you help us to produce our next songs and realise our first album. **Thank you for your love!!!**
+
+**Subscribe** to our list.
 
 (Lyrics)
 
