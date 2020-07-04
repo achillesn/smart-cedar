@@ -13,7 +13,7 @@ img_src: ''
   
 By donating a free amount you help us to produce our next songs and realise our first album. **Thank you for your love!!!**
 
-**Subscribe** to our list.
+**Follow Us, Subscribe** to our list.
 
 (Lyrics)
 
