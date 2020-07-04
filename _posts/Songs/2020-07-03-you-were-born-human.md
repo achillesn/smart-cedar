@@ -5,7 +5,7 @@ home_style: style7
 home_img: "/images/id-owebsite.jpg"
 excerpt: Γεννήθηκες Άνθρωπος
 date: 2020-07-03 22:00:00 +0000
-img_src: "/images/you-were-born-human.jpg"
+img_src: "/images/simon-chloros.jpg"
 
 ---
 You can **Download** this song for **FREE**
