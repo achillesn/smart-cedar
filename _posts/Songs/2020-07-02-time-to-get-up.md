@@ -54,4 +54,6 @@ without breath.
 Breathing slow  
 Breathing still  
 It’s time to get up  
-and dance
+and dance.
+
+\*_Translation into English by Nevi Kaninia_
