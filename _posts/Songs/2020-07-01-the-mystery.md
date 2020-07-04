@@ -10,7 +10,7 @@ img_src: "/images/mystery.jpg"
 ---
 You can **Download** this song, or the entire album, for <a href="https://imperfectid.bandcamp.com/album/imperfect-id/" target="blank"> **FREE**</a>
 
-By donating a free amount you help us to produce our next songs and realise our next album. **Thank you for your love!!!**
+By donating a free amount you help us to create our next songs and realise our next album. **Thank you for your love!!!**
 
 **Follow Us - Subscribe** to our list.
 
