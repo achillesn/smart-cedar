@@ -91,3 +91,5 @@ That all you see
 Inside  
 Is you  
 You
+
+\*_Translation into English by Nevi Kaninia_
