@@ -16,7 +16,7 @@ By donating a free amount you help us to produce our next songs and realise our 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=small/bgcol=ffffff/linkcol=0687f5/track=3823232912/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
 
-**The Mystery** _(lyrics)_
+__The Mystery*__ _(lyrics)_
 
 We live in years of darkness  
 Full of violence  
@@ -80,4 +80,4 @@ Still there was nature
 Around  
 And you were a little god.
 
-Translated into English by Nevi Kaninia.
+\*_Translated into English by Nevi Kaninia._
