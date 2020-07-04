@@ -8,6 +8,12 @@ date: 2020-07-03 22:00:00 +0000
 img_src: ''
 
 ---
+You can **Download** this song for **FREE**
+
+By donating a free amount you help us to produce our next songs and realise our next album. **Thank you for your love!!!**
+
+**Follow Us - Subscribe** to our list.
+
 __You were born human*___(Lyrics)_
 
 Look me in the eye  
