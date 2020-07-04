@@ -12,37 +12,25 @@ img_src: ''
 
 Ray of Wilderness* _(Lyrics)_
 
-Now days if I could talk about revolution
+Now days if I could talk about revolution  
+I would talk about love  
+that asks for nothing  
+and goes through everything.
 
-I would talk about love
+I would talk about coherence of times  
+changes that clarify the strength of the ephemeral  
+about the world that I carry on my shoulders.
 
-That asks for nothing
+I would talk about the start that’s approaching  
+about the end that when it’s near  
+it redeems you  
+the beginning hiding in each breath.
 
-And goes through everything.
-
-I would talk about coherence of times
-
-Changes that clarify the strength of the ephemeral
-
-About the world that I carry on my shoulders
-
-I would talk about the start that’s approaching
-
-About the end that when it’s near
-
-It redeems you
-
-The beginning hiding in each breath.
-
-Now, here on my own
-
-In the heat of cold
-
-In the light of darkness
-
-I whisper to infinity
-
-The need for speech/reason? ο λογος μπορει να ειναι και τα δυο, διαλεξε όποιο εννοεις
+Now, here on my own  
+in the heat of cold  
+in the light of darkness  
+I whisper to infinity  
+the need of Logos
 
 The world is upside down
 
