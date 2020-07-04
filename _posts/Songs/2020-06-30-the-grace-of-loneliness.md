@@ -21,8 +21,7 @@ __The Grace of Loneliness*__ (Lyrics)
 In the abyss of the Word  
 Joy is hidden  
 In a labyrinth stuck  
-agonizing to wander  
-back and forth
+agonizing to wander back and forth
 
 Bygone and forgotten  
 but still deep inside  
