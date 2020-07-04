@@ -16,7 +16,7 @@ By donating a free amount you help us to produce our next songs and realise our 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=small/bgcol=ffffff/linkcol=0687f5/track=3661008602/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
 
-**The song of creation** _(Lyrics)_
+__The song of creation*__ _(Lyrics)_
 
 In the beat of boredom  
  the song of creation begins  
