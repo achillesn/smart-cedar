@@ -64,7 +64,7 @@ It’s time to be silent again
 in a cell of infinite knowledge  
 and to start from scratch  
 once more  
-as if nothing ever happened  
+As if nothing ever happened  
 As if we weren’t here  
 all these years inside the illusion  
 of the beast within  
