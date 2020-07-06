@@ -18,3 +18,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- about.md
