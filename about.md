@@ -15,3 +15,13 @@ menu:
 **Nikos koliousis** is a sound artist. Born in Greece, studied music technology and sound engineering in Athens. Taken part in various music projects as sound designer, recording and mixing engineer in Greece, Netherlands and Chile. He now lives and works in Greece.
 
 The **Purple** LP is their debut release in July 7th 2020.
+
+Achilles Nasios: Text/ Voices/ Synths/ Magic Flute  
+  
+Nikos Koliousis: Synths/ Samplers/ Programming/ Voice Fx/ Guitars  
+  
+Edited & Mixed by Nikos Koliousis  
+Mastered by Spyros Spyrou  
+Art Cover by Achilles Nasios  
+  
+Special Thanks to Panagiota Koliousi for the voices in the track 'Η Χάρη της Μοναξιάς'
