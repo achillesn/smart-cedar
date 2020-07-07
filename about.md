@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-img_src: ''
-published: false
+img_src: "/images/about-imperfect.jpg"
 
 ---
 **Imperfect ID** is a music band, founded by Achilles Nasios and Nikos Koliousis in 2020, as they discovered that they where transmitted by the virus of music.
