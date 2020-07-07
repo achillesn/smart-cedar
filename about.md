@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-img_src: "/images/about-imperfect.jpg"
+img_src: "/images/id-youtubeheader.jpg"
 menu:
   main:
     weight: 2
