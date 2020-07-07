@@ -24,4 +24,4 @@ Edited & Mixed by Nikos Koliousis
 Mastered by Spyros Spyrou  
 Art Cover by Achilles Nasios  
   
-Special Thanks to Panagiota Koliousi for the voices in the track 'Η Χάρη της Μοναξιάς'
+Special Thanks to Panagiota Koliousi for the voices in the track 'Η Χάρη της Μοναξιάς' _(The Grace of Loneliness)_
