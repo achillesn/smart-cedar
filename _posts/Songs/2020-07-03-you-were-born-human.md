@@ -14,7 +14,8 @@ By donating a free amount you help us to create our next songs and realise our n
 
 **Follow Us - Subscribe** to our list.
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=small/bgcol=ffffff/linkcol=0687f5/track=3328412059/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3328412059/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
+
 
 __You were born human*___(Lyrics)_
 
