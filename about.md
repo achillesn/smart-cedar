@@ -14,7 +14,7 @@ Achilles Nasios is a visual artist, writter and musician. Born in Greece, studie
 
 Nikos Koliousis is a sound artist. Born in Greece, studied music technology and sound engineering in Athens. Taken part in various music projects as sound designer, recording and mixing engineer in Greece, Netherlands and Chile. He now lives and works in Greece.
 
-Their debute is the **Βordeaux album**, released in July 7th 2020.
+Their debute is the **Maroon album**, released in July 7th 2020.
 
 Achilles Nasios: Text/ Voices/ Synths/ Magic Flute
 
