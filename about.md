@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-img_src: "/images/id-youtubeheader2.jpg"
+img_src: "/images/text-logo-web.jpg"
 menu:
   main:
     weight: 2
