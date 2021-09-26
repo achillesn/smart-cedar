@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Στο τραπεζι του κερδους
+title: Στο τραπέζι του κέρδους
 home_style: style7
 home_img: "/images/imid-2-logo-1.jpg"
 excerpt: "2020"
