@@ -2,7 +2,7 @@
 layout: page
 title: The Maroon Album
 home_style: style7
-home_img: "/images/id-owebsite.jpg"
+home_img: "/images/imid-2-logo-1.jpg"
 excerpt: Imperfect ID
 date: 2020-07-03 22:00:00 +0000
 img_src: "/images/mystery.jpg"
