@@ -2,16 +2,13 @@
 layout: page
 title: The awakening of the shadows
 home_style: style7
-home_img: "/images/id-oblack.jpg"
+home_img: "/images/only-imge.jpg"
 excerpt: Το ξύπνημα των Σκιών
 date: 2020-04-30T22:00:00.000+00:00
 img_src: ''
 
 ---
 <iframe src="https://player.vimeo.com/video/402933077" width="1150" height="780" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-  
-By donating a free amount you help us to produce our next songs and realise our first album. **Thank you for your love!!!**
 
 **Follow Us - Subscribe** to our list.
 

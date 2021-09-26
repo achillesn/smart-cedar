@@ -1,19 +1,16 @@
 ---
 layout: page
-title: Waiting for the Dawn
-home_style: style7
+title: Waiting for the dawn
+home_style: style1
 home_img: "/images/id-oblack.jpg"
-excerpt: Περιμένοντας την Αυγή
-date: 2020-05-02T22:00:00.000+00:00
+excerpt: Περιμένοντας την αυγή
+date: 2020-12-31 23:00:00 +0000
 img_src: ''
 
 ---
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/414499503" width="1150" height="780" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/414499503?h=98c3003430" width="1150" height="780" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-**FREE DOWNLOAD**
-
-**Subscribe** to our list.  
-By donating a free amount you help us to produce our next songs and realise our first album. **Thank you for your love!!!**
+**FOLLOW US - Subscribe** to our list
 
 (Lyrics)
 

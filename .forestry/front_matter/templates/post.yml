@@ -52,11 +52,6 @@ fields:
   config:
     required: true
 pages:
+- _posts/2020-12-31-waiting-for-the-dawn.md
 - _posts/Songs/2020-03-26-the-awakening-of-the-shadows.md
-- _posts/Songs/2020-04-03-waiting-for-the-dawn.md
-- _posts/Songs/2020-06-30-the-grace-of-loneliness.md
-- _posts/Songs/2020-07-01-the-mystery.md
-- _posts/Songs/2020-07-01-the-song-of-creation.md
-- _posts/Songs/2020-07-02-the-ray-of-the-wilderness.md
-- _posts/Songs/2020-07-02-time-to-get-up.md
 - _posts/Songs/2020-07-03-you-were-born-human.md

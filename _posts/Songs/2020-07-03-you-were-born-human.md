@@ -1,104 +1,32 @@
 ---
 layout: page
-title: You were born Human
+title: The Maroon Album
 home_style: style7
 home_img: "/images/id-owebsite.jpg"
-excerpt: Γεννήθηκες Άνθρωπος
+excerpt: Imperfect ID
 date: 2020-07-03 22:00:00 +0000
-img_src: "/images/simon-chloros.jpg"
+img_src: "/images/mystery.jpg"
 
 ---
-You can <a href="https://imperfectid.bandcamp.com/track/-" target="blank"> **Download** this song </a>, or the <a href="https://imperfectid.bandcamp.com/album/imperfect-id/" target="blank"> entire album </a>, by determining the amount yourself.
-
-By donating a free amount you help us to create our next songs and realise our next album. **Thank you for your love!!!**
+You can <a href="https://imperfectid.bandcamp.com/album/imperfect-id/" target="blank"> **Download** this album </a> by determining the amount yourself.
 
 **Follow Us - Subscribe** to our list.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3328412059/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=439383510/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=654809306/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3661008602/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3823232912/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3539281572/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
 
+The **Maroon album**, released in July 7th 2020.
 
-__You were born human*___(Lyrics)_
+Achilles Nasios: Text/ Voices/ Synths/ Magic Flute
 
-Look me in the eye  
-Look me in the eye  
-Look me in the eye  
-Yes  
-In the eye  
-Where they say it's the mirror of the soul  
-Look deep  
-Tell me what do you see?  
-Speak and leave every excuse behind  
-Tell me  
-What do you find?
+Nikos Koliousis: Synths/ Samplers/ Programming/ Voice Fx/ Guitars
 
-Look here. Here  
-In the guts of the darkness of the iris  
-where the universe is condensed  
-Where the world is hiding
+Edited & Mixed by Nikos Koliousis  
+Mastered by Spyros Spyrou  
+Art Cover by Achilles Nasios
 
-Stop crying  
-Just look  
-In there souls of children are floating  
-They know the terror  
-In there there are souls of mothers that gave birth to them  
-and tears of fathers unable to protect them  
-In there hyenas and jackals  
-Waiting to devour the flesh of everything mortal  
-Just waiting.
-
-Fear not. You are safe  
-Well hidden in your hole  
-Waiting for security to aid  
-You pay for it  
-So don’t be afraid  
-As long as you pay  
-you’ll be safe  
-Don’t look around  
-Don’t look around.
-
-Hide well your despair  
-that doesn’t let you breathe air  
-every time you are ashamed  
-for being alive  
-You were born human  
-You were born human  
-You were born human  
-What do you expect?  
-You should give the embrace  
-you were longing for  
-away  
-You have nothing but that  
-Anyway.
-
-Even your breath  
-If you don’t make it live  
-when you are alive  
-doesn’t belong to you
-
-Even your breath  
-If you don’t make it live  
-when you are alive,  
-doesn’t belong to you
-
-So make a move and  
-open the chest of treasure  
-you have in your heart  
-Take the magic flute  
-and start  
-to dance to the light  
-Deep  
-Deep with joy  
-and we’ll follow you.  
-We’ll follow you.
-
-Look me in the eye  
-Look deep  
-As if you can see the soul  
-Look deep  
-And be certain  
-That all you see  
-Inside  
-Is you  
-You
-
-\*_Translation into English by Nevi Kaninia_
+Special Thanks to Panagiota Koliousi for the voices in the track 'Η Χάρη της Μοναξιάς' _(The Grace of Loneliness)_
