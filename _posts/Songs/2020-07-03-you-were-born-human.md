@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Στο τραπέζι του κέρδους
+title: Maroon
 home_style: style7
 home_img: "/images/imid-2-logo-1.jpg"
 excerpt: imperfect id 2020
