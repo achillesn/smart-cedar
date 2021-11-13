@@ -24,4 +24,4 @@ imperfect id 2020
 
 \-
 
-**FOLLOW US - Subscribe** to our list
+**Subscribe** to our list
