@@ -13,7 +13,7 @@ Their second album, released December 18, 2021, consists a series of improvisati
 
 You can listen and <a href="https://imperfectid.bandcamp.com//" target="blank"> **Download** those albums here</a> .
 
-Achilles Nasios: Text/ Voices/ Synths/ Magic Flute
+Achilles Nasios: Texts/ Voice/ Synths/ Magic Flute
 
 Nikos Koliousis: Synths/ Samplers/ Programming/ Voice Fx/ Guitars
 
