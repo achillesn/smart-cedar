@@ -4,7 +4,7 @@ title: Digital Albums
 home_style: style7
 home_img: "/images/imid-2-logo-1.jpg"
 excerpt: imperfect id - 2020-2022
-date: 2022-10-15 22:00:00 +0000
+date: 2022-10-14 22:00:00 +0000
 img_src: "/images/mystery.jpg"
 
 ---
