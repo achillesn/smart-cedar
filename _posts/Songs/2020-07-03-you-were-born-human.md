@@ -1,25 +1,18 @@
 ---
 layout: page
-title: Maroon
+title: Digital Albums
 home_style: style7
 home_img: "/images/imid-2-logo-1.jpg"
-excerpt: imperfect id - 2020
-date: 2020-07-03 22:00:00 +0000
+excerpt: imperfect id - 2020-2022
+date: 2022-10-15 22:00:00 +0000
 img_src: "/images/mystery.jpg"
 
 ---
-You can <a href="https://imperfectid.bandcamp.com/album/imperfect-id/" target="blank"> **Download** this album </a> by determining the amount yourself.
 
-**Follow Us - Subscribe** to our list.
+Imperfect Id started their first music creations from distance. Their debut album <a href="https://imperfectid.bandcamp.com/album/maroon" target="blank">**‘Maroon’**</a> released in July 7th 2020, was created in both studios( Greece and Sweden) sending and exchanging sounds and ideas without the musicians been played together from close.  
+Their new album, released December 18, 2021, consists a series of improvisations that created when the duo-band Achilles Nasios and Nikos Koliousis met and played from close for the first time. For this reason the name of the album is <a href="https://imperfectid.bandcamp.com/album/primer-contacto" target="blank">**‘Primer Contacto’**</a> 
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3328412059/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=439383510/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=654809306/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3661008602/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3823232912/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634321029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3539281572/transparent=true/" seamless><a href="http://imperfectid.bandcamp.com/album/imperfect-id">Imperfect ID by Imperfect ID</a></iframe>
-
-The **Maroon** album, released in July 7th 2020.
+You can listen and <a href="https://imperfectid.bandcamp.com/album/imperfect-id/" target="blank"> **Download** those albums here</a> .
 
 Achilles Nasios: Text/ Voices/ Synths/ Magic Flute
 
