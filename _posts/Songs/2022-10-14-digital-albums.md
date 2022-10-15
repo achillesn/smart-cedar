@@ -17,8 +17,8 @@ Achilles Nasios: Texts/ Voice/ Synths/ Magic Flute
 
 Nikos Koliousis: Synths/ Samplers/ Programming/ Voice Fx/ Guitars
 
-Edited & Mixed by Nikos Koliousis  
-Mastered: "Maroon" Spyros Spyrou. "Primer Contacto": Nikos Koliousis"  
+Editing & Mix by Nikos Koliousis  
+Mastering: "Maroon" Spyros Spyrou. "Primer Contacto": Nikos Koliousis"  
 Art Covers: Grafic design - Yorgos Nasios - Photo ©Nikos Koliousis
 
 Special Thanks to Panagiota Koliousi for the voices in the track 'Η Χάρη της Μοναξιάς' _(The Grace of Loneliness)_
