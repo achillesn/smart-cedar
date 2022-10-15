@@ -2,7 +2,7 @@
 layout: page
 title: video clips
 home_style: style7
-home_img: "/images/1-bok.jpg"
+home_img: "/images/only-imge.jpg"
 excerpt: ''
 date: 2020-12-31 23:00:00 +0000
 img_src: ''
