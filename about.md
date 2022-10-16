@@ -16,4 +16,4 @@ Nikos Koliousis (Synths/ Samplers/ Programming/ Voice Fx/ Guitars) is a sound ar
 
 Constantinos Kilazoglou (drums)
 
-Vasilis Kyvranoglou (bass guitar) 
+Vasilis Kyvranoglou (bass guitar, vocals, percussions). He was born and raised in Greece. He is a musician and has been teaching drums and traditional percussions in conservatories since 2005. He is also performing as a singer and drummer in several groups.
