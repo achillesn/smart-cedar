@@ -10,7 +10,7 @@ menu:
 ---
 **Imperfect ID** is a music band, founded by Achilles Nasios and Nikos Koliousis in 2020, as they both decided  to seriously transmit the virus of music.
 
-In June 2022, two more members were In June 2022, two more members were added to the band. Konstantinos Kilazoglou and Vassilis Kyvranoglou.
+In June 2022, two more members contracted the virus and joined the band. Konstantinos Kilazoglou and Vassilis Kyvranoglou.
 
 Achilles Nasios (Text/ Voices/ Synths/ Magic Flute) is a photographer, video-artist, writter and musician. Born in Greece, studied Fine Arts in Prague, Berlin, Athens and Stockholm. Since 2007 he lives and creates between Sweden and Greece.
 
