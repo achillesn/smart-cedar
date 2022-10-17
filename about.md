@@ -14,6 +14,6 @@ Achilles Nasios (Text/ Voices/ Synths/ Magic Flute) is a photographer, video-art
 
 Nikos Koliousis (Synths/ Samplers/ Programming/ Voice Fx/ Guitars) is a sound artist. Born in Greece, studied music technology and sound engineering in Athens. Taken part in various music projects as sound designer, recording and mixing engineer in Greece, Netherlands and Chile. He now lives and works in Greece.
 
-Constantinos Kilazoglou (drums)
+Constantinos Kilazoglou (drums), is an Athens born multi-instrumentalist musician, composer and producer. He studied Sound Engineering in Athens and later on Acoustics and Contemporary Music Composition in Manchester, England. He has produced a number of albums stylistically ranging from deep house and hip-hop to heavier Post - Rock material. In his solo works - released under the alias "The Jovian Kid" - the stylistic range is expanded even more, from dub and lofi to synthwave and AOR.
 
 Vasilis Kyvranoglou (bass guitar, vocals, percussions). He was born and raised in Greece. He is a musician and has been teaching drums and traditional percussions in conservatories since 2005. He is also performing as a singer and drummer in several groups.
